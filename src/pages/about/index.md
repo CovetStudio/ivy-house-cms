@@ -1,19 +1,32 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## **OUR STORY**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Ivy House Recruiting is a Nashville-based recruiting firm that finds top-talent employees for teams all over the United States. With a background working for both large staffing companies and smaller boutique search firms, Ivy House Recruiting was founded when there seemed to be a lack of two things in the recruiting industry- integrity and kindness. Ivy House is in the people business. We create relationships by providing top-notch customer service founded on integrity and kindness. Striving to be the most professional, personable and efficient recruiting company you will ever partner with.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Is your company ready to partner with a company that LOVES what they do? Are you looking for a new rockstar team member to join your team? Let Ivy House Recruiting, put our words into action and give us a call today. One quick call could take your team to the next level of success. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+## **OUR PROCESS** 	
+
+Connecting the right person to the right company is a privilege that Ivy House Recruiting is passionate about. We are a company that truly gets to know our candidates before we know if they are an appropriate fit for you.  Ivy House is not in the business of sending our clients a ton of resumes for them to filter through, just to make our own metrics look good. We seek top of the line candidates that meet or exceed your expectations. Striving to find a mutual fit, so both parties can thrive and succeed together. Ivy House promises to only send you the very best. Through our pre-screening process we are able to determine if someone is going to fit the mold that your team specifically needs. Once approved, we remain there for both our clients, and our candidates. We make sure that interviews are professional, seamless, and well-coordinated. Every-step of the way Ivy House Recruiting is there for you.
+
+
+
+## **Brittney Lapham / Founder**
+
+Brittney Lapham started Ivy House Recruiting after working in professional recruiting and business development for over half a decade. First achieving her B.A. ata  Southeastern University in Lakeland Florida, she studied Public Relations and Journalism. Brittney then went abroad to Winchester, United Kingdom, to obtain her Masters in Managing Contemporary Global Issues. She is also the daughter of a United States Army Colonel/Assemblies of God Pastor and a Multi-tasking Superhero, who have taught her to live with honor and integrity. This upbringing also allowed her to live all over the world, furthering her foundation in servant leadership. Brittney has now settled in Nashville, Tennessee, where she has lived for 7 years. She is dedicated to her job, and her job is her passion. When she is not working on finding you the next perfect member for your team, you can find her (and her rescue dog Millie) on the hiking trails of beautiful Tennessee.
+
+
+
+**INDUSTRIES**
+
+* Sales, Marketing & Corporate Services 
+* Healthcare 
+* Operations & Engineering
+* Automotive
+* Legal
+* Military Transition
